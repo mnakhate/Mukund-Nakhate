@@ -20,7 +20,6 @@ I hope to learn to make wireframes and dashboards for hospitals. Learn to visual
 
 <iframe title="Facebook post likes" aria-label="Column Chart" src="//datawrapper.dwcdn.net/i7r9I/5/" scrolling="no" frameborder="0" style="border: none;" width="605" height="266"></iframe>
 
-https://datawrapper.dwcdn.net/i7r9I/5/
 
 # Projects 
 
