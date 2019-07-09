@@ -16,6 +16,12 @@ I hope to learn to make wireframes and dashboards for hospitals. Learn to visual
 
 # Critiques of various data visualizations
 
+# Critique 1 - The metamorphosis - Labour Party UK ( From the economist article https://www.economist.com/britain/2016/08/13/the-metamorphosis)
+
+https://datawrapper.dwcdn.net/i7r9I/4/
+
+
+
 # Projects 
 
 
