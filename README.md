@@ -27,5 +27,5 @@ I hope to learn to make wireframes and dashboards for hospitals. Learn to visual
 
 ![](IMG_20190709_203954__01.jpg)
 
-![](IMG_20190709_204742.jpg)
+![](IMG_20190709_20474211111.jpg)
 
