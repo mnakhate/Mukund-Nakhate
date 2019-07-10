@@ -24,5 +24,5 @@ I hope to learn to make wireframes and dashboards for hospitals. Learn to visual
 # Projects 
 
 Chapter one Workbook! 
-![](New Doc 2019-07-09 20.19.17.pdf)
+
 
