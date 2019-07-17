@@ -31,7 +31,7 @@ I hope to learn to make wireframes and dashboards for hospitals. Learn to visual
 
 # OIG Data Visualization - Source - https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf
 
-# 
+## Written Summary
 As a data journalist I identified that the growth in the number of apprehensions and detainees in the various CBP centers have increased drastically within a year. To convey the gross increase in the number of detainees, I used an Area chart that clearly shows the spike in the numbers from one year to the next. I segregated the various groups of detainees and gave them different colours from a colour scheme from http://colorbrewer2.org and the chart can easily be read and understood within 30 seconds. 
 
 As an analyst I wanted to relay more information than just the gross increase. I used a percentage stacked area chart to determine which group of people are actually increasing as a percentage of the total detainees that have increased. This would allow policy makers to focus their efforts quantitatively using the data to build more centers or authorize proportional budgets to buy beds for the respective groups of the population. 
