@@ -41,3 +41,7 @@ I hope to learn to make wireframes and dashboards for hospitals. Learn to visual
 # My improved data visualization  
 <div class="infogram-embed" data-id="ba41f8bf-6ff6-4b54-8a8d-ed6beb3be0c5" data-type="interactive" data-title="Untitled report"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/ba41f8bf-6ff6-4b54-8a8d-ed6beb3be0c5" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled report</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
+# Workbook 2
+
+![](2.jpg)
+![](22.jpg)
