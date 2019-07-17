@@ -47,9 +47,20 @@ I used a Guage chart to show data from texas which showed the number of detainee
 # Critque #2
 
 ## India's gross domestic product growth rate
+
 <a href="https://www.statista.com/statistics/263617/gross-domestic-product-gdp-growth-rate-in-india/" rel="nofollow"><img src="https://www.statista.com/graphic/1/263617/gross-domestic-product-gdp-growth-rate-in-india.jpg" alt="Statistic: India: Real gross domestic product (GDP) growth rate from 2014 to 2024 (compared to the previous year) | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
 
+The website uses a solid bar chart to show the GDP growth rate of India from year to year and it is redundant as it does we usually use bar charts to signify the weight off something and not to just point at one data point. 
+The blue colour is too strong and hides the importance of the subtle changes in the value of GDP which hovers around the same percentage points. 
+
+I feel that on the scale of usefulness it is not very useful, it is complete, not very perceptible. It is truthful and intutive but not aesthetic or engaging. 
+
 # My improved data visualization  
+
+I used a line chart to show the swings in the GDP with a better scale and a background that immediately makes a visual connection to India so the numbers are more likely to be remembered. The horizontal grid lines help with easy reading of the data and the colour is not overwhelming to the eye such we don't pay attention to the data. 
+
+This data visualization does better on usefullness, perceptibility, aesthetics and engagement. 
+
 <div class="infogram-embed" data-id="ba41f8bf-6ff6-4b54-8a8d-ed6beb3be0c5" data-type="interactive" data-title="Untitled report"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/ba41f8bf-6ff6-4b54-8a8d-ed6beb3be0c5" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled report</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 # Source : IMF 
 
