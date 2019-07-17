@@ -31,6 +31,17 @@ I hope to learn to make wireframes and dashboards for hospitals. Learn to visual
 
 # OIG Data Visualization - Source - https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf
 
+# 
+As a data journalist I identified that the growth in the number of apprehensions and detainees in the various CBP centers have increased drastically within a year. To convey the gross increase in the number of detainees, I used an Area chart that clearly shows the spike in the numbers from one year to the next. I segregated the various groups of detainees and gave them different colours from a colour scheme from http://colorbrewer2.org and the chart can easily be read and understood within 30 seconds. 
+
+As an analyst I wanted to relay more information than just the gross increase. I used a percentage stacked area chart to determine which group of people are actually increasing as a percentage of the total detainees that have increased. This would allow policy makers to focus their efforts quantitatively using the data to build more centers or authorize proportional budgets to buy beds for the respective groups of the population. 
+
+If you move your cursor to the plotted points you will notice the percentage of the total population. We can easily infer that the UAC category has reduced, family units have almost doubled and single adult population has fallen as a percentage of the total. This is vital information that the policy makers or those who read this report can utilize. 
+
+I also added a funnel chart to show the total number of detainees, the number held for more than 3 days and the number held for more thn 10. 
+
+I used a Guage chart to show data from texas which showed the number of detainees processed out of the total and the number of detainees that were processed but still held for more than 7 days. This chart will be helpful to analyze the backlog of detainees that ICE and other authorities cannot take in at the time. 
+
 <div class="infogram-embed" data-id="d5dda14a-c7e4-4627-bec8-bef4534ae288" data-type="interactive" data-title="Untitled infographic"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/d5dda14a-c7e4-4627-bec8-bef4534ae288" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled infographic</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div> 
 
 # Critque #2
