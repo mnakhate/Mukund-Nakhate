@@ -73,7 +73,8 @@ This data visualization does better on usefullness, perceptibility, aesthetics a
 
   [Click here to view assignment](/oecdDataViz.md)
   
-  ## Final project 
+  # Final project 
+  
  In a world where we use fitbit's and apple watches, using biometric data coupled with a daily activity log and a mood metric indicator can go a long way in helping us deal with stress. 
   
 In my project I aim to use heart rate spikes, correlate them to the time of the day and the activity the person is doing to understand what aspects of a persons life is causing him stress. This can he highly helpful to therapists and counsellors for people with anxiety and substance use disorders to understand the core of the trauma and try various interventions to try and help them deal with those issues based on thie triggers. 
