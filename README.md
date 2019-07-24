@@ -75,7 +75,7 @@ This data visualization does better on usefullness, perceptibility, aesthetics a
   
 ## Final project 
   
-[Click here to view project](/Final.Portfolio.md)
+[Click here to view project](/FinalPortfolio.md)
   
 
 
