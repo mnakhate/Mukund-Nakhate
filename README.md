@@ -75,5 +75,5 @@ This data visualization does better on usefullness, perceptibility, aesthetics a
   
   
   
-  
+  ![](biometric1.JPG)
 
