@@ -71,7 +71,7 @@ This data visualization does better on usefullness, perceptibility, aesthetics a
 
 # OECD Data visualization 
 
-  [Hello](/https://github.com/mnakhate/Mukund-Nakhate/edit/master/oecdDataViz.md)
+  [Click here to view assignment](/oecdDataViz.md)
   
   
   
