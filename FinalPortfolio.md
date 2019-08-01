@@ -69,7 +69,8 @@ Thus, I decided to keep the heart rate chair plain and simple with a line graph 
 
 ![](4444.JPG)
 
-![]()
+![](1872361837.JPG)
+
 
 
 
