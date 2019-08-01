@@ -65,10 +65,19 @@ Interview 3
 Thus, I decided to keep the heart rate chair plain and simple with a line graph where the average heart rate over 15 mins is taken as one datapoint. I decided to include the mood indicator on the dashboard and restricted sleep cycle’s complexity to just light and deep sleep. 
 
 
-<div class="infogram-embed" data-id="6cfc90bf-3275-452b-80e2-38d31504830e" data-type="interactive" data-title="mmm"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/6cfc90bf-3275-452b-80e2-38d31504830e" style="color:#989898!important;text-decoration:none!important;" target="_blank">mmm</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
+
+
+A typical persona would be a graduate student from Carnegie Mellon University 
 
 ![](4444.JPG)
+A student would get simplified version of his analysis. 
+![](1872361837.JPG) 
 
+The result that came from that wireframe : 
+
+<div class="infogram-embed" data-id="6cfc90bf-3275-452b-80e2-38d31504830e" data-type="interactive" data-title="mmm"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/6cfc90bf-3275-452b-80e2-38d31504830e" style="color:#989898!important;text-decoration:none!important;" target="_blank">mmm</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 ![](1872361837.JPG)
 
 
