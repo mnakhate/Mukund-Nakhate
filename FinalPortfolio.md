@@ -77,6 +77,12 @@ Visualizing biometric data in a way thst is useful to the everyday customer is i
 
 HOOK : Why not try to use it to map our behavioural patterns as well? 
 
+## PERFECT DAY - An experiment for understanding my stress and behavioral patterns.
+
+I used my physiological data coupled with self reports of my mood and nicotine consumption to create a risk score of my stress levels. I used one week's fitbit data. But this is a tool that one can use to track their stress scores over time and try and experiment with various interventions to find what works best for you in managing stress. 
+
+Kindly use the link to read the presentation. If you have any questions please feel free to email me at mukundnakhate77@gmail.com.
+
 https://preview.shorthand.com/ngTPsC30HJlriyST#article
 
 
