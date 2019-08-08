@@ -77,7 +77,7 @@ Visualizing biometric data in a way thst is useful to the everyday customer is i
 
 HOOK : Why not try to use it to map our behavioural patterns as well? 
 
-
+https://preview.shorthand.com/ngTPsC30HJlriyST#article
 
 
 
