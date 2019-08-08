@@ -12,7 +12,8 @@ I hope to learn to make wireframes and dashboards for hospitals. Learn to visual
 # Portfolio - Go on, have a scroll!
 
 
-# Introduction
+# Class assignements 
+Scroll down to the end for final project
 
 # Critiques of various data visualizations
 
@@ -23,7 +24,7 @@ I hope to learn to make wireframes and dashboards for hospitals. Learn to visual
 
 # Projects 
 
-## Chapter one Workbook! 
+## CLASS ASSIGNMENTS 
 
 ![](IMG_20190709_203954__01.jpg)
 
