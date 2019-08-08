@@ -1,4 +1,5 @@
- # Final project 
+ # Final project Work - Work done to set up final presentation 
+ Scroll down for final presentation
   
  In a world where we use fitbit's and apple watches, using biometric data coupled with a daily activity log and a mood metric indicator can go a long way in helping us deal with stress. 
   
