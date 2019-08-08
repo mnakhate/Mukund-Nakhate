@@ -77,6 +77,8 @@ This data visualization does better on usefullness, perceptibility, aesthetics a
 ## Final project 
   
 [Click here to view project](/FinalPortfolio.md)
+
+Hope you had some insight into the process we followed for this presentaion. Understanding various charts and their use. Identifying data. Doing prelimnary sketches and user research. Knowing your audience. Using various data visualizing tools to make a narrative for your story and finally using shorthand to compile and make attractive to look at. 
   
 
 
