@@ -78,8 +78,10 @@ This data visualization does better on usefullness, perceptibility, aesthetics a
   
 [Click here to view project outline and steps](/FinalPortfolio.md)
 
-Click here to view the final presentation on shorthand.
-https://carnegiemellon.shorthandstories.com/MukundNakhate/index.html
+Click here to view the final presentation on shorthand. 
+
+<script src="https://embed.shorthand.com/embed_6.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/MukundNakhate/"><h1> Perfect Day</h1><p>An experiment for dealing with stress</p></div>
 
 Hope you had some insight into the process we followed for this presentaion. Understanding various charts and their use. Identifying data. Doing prelimnary sketches and user research. Knowing your audience. Using various data visualizing tools to make a narrative for your story and finally using shorthand to compile and make attractive to look at. 
   
